@@ -15,7 +15,7 @@ import HabitParticipants from './HabitParticipants';
 const HabitLog = props => {
   /**
    * Maps over a list of habit logs and renders habit's logs
-   * with checked/unchecked.
+   * with checked/unchecked
    *
    * @return {array} renders habit name and dates in JSX
    *
